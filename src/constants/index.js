@@ -148,7 +148,7 @@ const projects = [
       },
     ],
     image: portfolio,
-    source_code_link: "https://github.com/",
+    source_code_link: "https://github.com/Somnath64/Portfolio-Website",
   },
   {
     name: "Mapty App",
